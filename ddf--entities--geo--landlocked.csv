@@ -1,3 +1,3 @@
-landlocked,name,gwid,is--landlocked
-landlocked,Landlocked,i271,TRUE
-coastline,Coastline,i270,TRUE
+landlocked,name,gwid,is--landlocked,shape_lores_svg
+landlocked,Landlocked,i271,TRUE,
+coastline,Coastline,i270,TRUE,
